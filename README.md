@@ -10,23 +10,23 @@ This repo is made so that all solutions from LeetCode can be found easily
 
 ## Solved problems in LeetCode:
 
-- [ ]  1
-- [ ]  9
-- [ ]  13
-- [ ]  14
-- [ ]  20
-- [ ]  21
-- [ ]  26
-- [ ]  27
-- [ ]  28
-- [ ]  35
-- [ ]  58
-- [ ]  66
-- [ ]  67
-- [ ]  69
-- [ ]  70
-- [ ]  83
-- [ ]  203
+- [x]  1
+- [x]  9
+- [x]  13
+- [x]  14
+- [x]  20
+- [x]  21
+- [x]  26
+- [x]  27
+- [x]  28
+- [x]  35
+- [x]  58
+- [x]  66
+- [x]  67
+- [x]  69
+- [x]  70
+- [x]  83
+- [x]  203
 
 ## Not solved yet:
 
