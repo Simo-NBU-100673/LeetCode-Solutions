@@ -11,12 +11,25 @@ This repo is made so that all solutions from LeetCode can be found easily
 ## Solved problems in LeetCode:
 
 - [ ]  1
-- [ ]  2
-- [ ]  3
-- [ ]  4
-- [ ]  5
-- [ ]  6
-- [ ]  7
-- [ ]  8
 - [ ]  9
-- [ ]  10 
+- [ ]  13
+- [ ]  14
+- [ ]  20
+- [ ]  21
+- [ ]  26
+- [ ]  27
+- [ ]  28
+- [ ]  35
+- [ ]  58
+- [ ]  66
+- [ ]  67
+- [ ]  69
+- [ ]  70
+- [ ]  83
+- [ ]  203
+
+## Not solved yet:
+
+- [ ] 2
+- [ ] 4
+- [ ] 10
