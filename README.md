@@ -1,6 +1,7 @@
 # LeetCode-Solutions
 
 This repo is made so that all solutions from LeetCode can be found easily
+All solutions are written entirely on Java!
 
 
 ## Authors:
