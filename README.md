@@ -27,6 +27,8 @@ This repo is made so that all solutions from LeetCode can be found easily
 - [x]  70
 - [x]  83
 - [x]  203
+- [x]  94
+- [x]  100
 
 ## Not solved yet:
 
